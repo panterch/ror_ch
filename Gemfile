@@ -14,7 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
 
 # app
-gem 'ruby_meetup2', git: 'https://github.com/domicode/ruby-meetup2' # meetup api client,
+gem 'ruby_meetup2' # meetup api client,
 # PR was merged, remove branch when gem is republished with the new version.
 
 # hosting
